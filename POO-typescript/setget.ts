@@ -25,5 +25,5 @@ function main():void{
 	d.cambiarApellido = 'PPPP'
 	console.log(d.nombreCompleto)
 }
-
+/* comentando la función main */
 main()
